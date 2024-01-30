@@ -18,27 +18,28 @@
 
 #### Learning Objective
 
-*One measurable learning objective that this exercise assesses*
+*learn how you isolate the data through visuals only and interpret the charts correctly to get the answers to anomalous performance pattern*
 
 #### Context
 
-*3 - 4 sentence description of why it’s important to learn how to do this task (linking back to the learning objective). Explain how this would be used in a real-life situation. Why is it useful, what problem does it solve?*
+*This skill is absolutely crucial for all analyst to actually leverage the dashboards and extract anomalies & outliers and also pinpoint where and when the outlier was, so that right actions could be taken timely.* 
 
 #### Steps to be executed by the student (max 6)
 
-*Each bulleted instruction is a complete sentence that describes a specific task.*
 
-- Step 1
-- Step 2
-- Step 3
-- ...
+1.	Go to the bottom line by subcategory visual at the bottom of the dashboard
+2.	Scroll down to the very bottom of the visual, see Tables (Sub category) with negative bottomline of 0.06mn
+3.	Click it, and then go to the bottomline by markets and see that Asia Pacific is the most loss making market (19.9k), click it while pressing Ctrl key
+4.	Now go to the YoY bottomline comparison and see which point in the line is the lowest (June 2012 = $ 3,056)
+
 
 #### Exercise question:
-*This is a question presented to learners to check if the steps above were properly completed. It can be a multiple choice question or a question with a 1-3 word answer. It is often not possible to check if all the steps are completed, in this case; the priority is to check that the learner meets the learning objective.*
+*TDid we lose money in any sub category? Which market was majorly responsible (give me both absolute and net margin loss) and when did we lose the most? *
+
 
 #### End goal:
+https://drive.google.com/file/d/1rKsxYY0hKKR7uGhg5-eACensVTFntTco/view?usp=sharing
 
-*Add an image of the final visualization here.*
 
 ## 2nd VM Exercise
 
@@ -53,25 +54,28 @@
 
 #### Learning Objective
 
-*One measurable learning objective that this exercise assesses*
+*learn how you isolate the data through combination of visuals and filters and answer questions from business users.*
 
 #### Context
 
-*3 - 4 sentence description of why it’s important to learn how to do this task (linking back to the learning objective). Explain how this would be used in a real-life situation. Why is it useful, what problem does it solve?*
+*This is also vital for analyst to be able to leverage the dashboards and quickly extract right answers to questions from business teams across the organization such as sales team in this case.*
 
 #### Steps to be executed by the student (max 6)
 
 *Each bulleted instruction is a complete sentence that describes a specific task.*
 
-- Step 1
-- Step 2
-- Step 3
-- ...
+1.	Select France from the country filter.
+2.	Select Corporate from the segments tile
+3.	Go down to the topline by customers bar chart and see the top value (Odella Nelson >> $6.2K)
+4.	Click the bar chart to isolate that customer
+5.	Now go up and select 2012 from the year filter
+6.	Check gross sales for the 2012 account value ($ 6,677)
+
 
 #### Exercise question:
-*This is a question presented to learners to check if the steps above were properly completed. It can be a multiple choice question or a question with a 1-3 word answer. It is often not possible to check if all the steps are completed, in this case; the priority is to check that the learner meets the learning objective.*
+*Who is our biggest corporate customer in France, and what was his/her account value in 2012?*
 
 #### End goal:
 
-*Add an image of the final visualization here.*
+https://drive.google.com/file/d/1CG7SqLJEt9L3ICyLLwvs-JI1R7WC_W8Q/view?usp=sharing
 
